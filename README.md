@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Student Management System — Pro Max
 
 ## Prerequisites
@@ -47,3 +48,6 @@ The app creates `student_management.db` automatically in the project working dir
 - **Wrong Java version:** run `java -version`; configure `JAVA_HOME` to a JDK 21 installation before running Maven.
 - **JavaFX launch error:** run through `mvn javafx:run` rather than executing the class directly.
 - **Database locked:** close any other copy of the application and retry. Each SQLite connection enables foreign keys and a five-second busy timeout.
+=======
+# Smart-Student-Management-System
+>>>>>>> 21a57e0f5be819bf1532b89b09946fa738beea91
